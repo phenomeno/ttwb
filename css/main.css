@@ -1,0 +1,64 @@
+/* This is how you comment in CSS */
+
+.panel, .panel-info {
+	margin:10%;
+	margin-bottom:10px;
+}
+
+.panel-heading {
+	text-align:center;
+	font-weight: 100;
+	font-size:50px;
+}
+
+.list-group-item-heading {
+	font-weight:300;
+}
+
+.list-group-item-text {
+	font-weight:100;
+}
+
+.class list-group-item-warning {
+	font-weight:300;
+	font-size: 24px;
+}
+
+#col-md-8-1 {
+	text-align: right;
+}
+
+#container-1 {
+	margin-right: 0px;
+}
+
+#list-group-left {
+	display:inline;
+}
+
+#list-group-right {
+	display:inline;
+	float:right;
+	text-align: right;
+}
+
+#list-group-item-left {
+	display:inline;
+}
+
+/* #list-group-item-right {
+	display:inline;
+	float:right;
+	text-align: right;
+} */
+
+#btn {
+	background-color:#D9EDF7;
+	color:#31708F;
+	font-weight:100;
+	font-size:24px;
+}
+
+.input-group {
+	width:80%;
+}
